@@ -12,7 +12,7 @@ The [Project Docs](https://docs.google.com/document/d/1caq1gSvHqVXVCOCGPsqi7I0fb
 
 ## Contacts
 
-You can contact us at [Email](contact@getcouragenow.org) regarding any questions or if you would like a demo of the system.
+You can contact us at [Email](mailto:contact@getcouragenow.org) regarding any questions or if you would like a demo of the system.
 
 If your a developer and want help then your free to contact the DEV Team at [Telegram](https://t.me/getcouragenow_dev).
 
