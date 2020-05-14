@@ -6,9 +6,9 @@ This project provides a platform offering real time collaboration to allow organ
 
 ## Project docs
 
-The [Project Web site](https://getcouragenow.org/) gives a general introduction about what the software is used for, the organisation behind it.
+The [Project Website](https://getcouragenow.org/) gives a general introduction about what the software is used for, the organisation behind it.
 
-The [Project Web site](https://docs.google.com/document/d/1caq1gSvHqVXVCOCGPsqi7I0fbF-Gdyryd07CL9yJ55o) explains the functionality.
+The [Project Docs](https://docs.google.com/document/d/1caq1gSvHqVXVCOCGPsqi7I0fbF-Gdyryd07CL9yJ55o) explains the functionality.
 
 ## Contacts
 
