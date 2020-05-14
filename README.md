@@ -36,7 +36,7 @@ The [core-bs](https://github.com/getcouragenow/core-bs) repository is for boot s
 
 The [core-fish](https://github.com/getcouragenow/core-fish) repository is just a manifest holding the links to the latest binaries tools.
 
-The [core-runtime](https://github.com/getcouragenow/ccore-runtime) repository
+The [core-runtime](https://github.com/getcouragenow/core-runtime) repository
 contains all the design time code generators and the core time code, and examples. You don't need this unless you are working on the core runtime.
 
 ## Running
