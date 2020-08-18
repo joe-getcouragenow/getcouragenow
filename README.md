@@ -1,6 +1,6 @@
 # Introduction
 
-This project provides a platform offering real time collaboration to allow organisations to collaborate around a campaign.typo
+This project provides a platform offering real time collaboration to allow organisations to collaborate around a campaign.
 
 ## Project docs
 
